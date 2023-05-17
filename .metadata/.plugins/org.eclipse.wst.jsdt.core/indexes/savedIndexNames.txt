@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Sviluppo\Eclipse Workspaces\TerzoProgetto_ArcaWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2780664572.index
+103126848.index
+3137384131.index
+2107630912.index
+3661989083.index
+2615170661.index

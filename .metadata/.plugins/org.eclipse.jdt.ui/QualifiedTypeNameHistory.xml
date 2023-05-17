@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="presentation.pojo.Animale"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="presentation.servlets.JDBCDataSourceExample"/>
+    <fullyQualifiedTypeName name="jakarta.activation.DataSource"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="integration.ConnectionManager"/>
+    <fullyQualifiedTypeName name="presentation.pojo.Animale.Specie"/>
+    <fullyQualifiedTypeName name="integration.enumeratori.EnumSpecie"/>
+    <fullyQualifiedTypeName name="integration.pojo.AnimaleDto"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="integration.ArcaDao"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.PUT"/>
+</qualifiedTypeNameHistroy>

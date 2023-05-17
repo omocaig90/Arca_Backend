@@ -1,0 +1,5 @@
+1683107998906	Move 'JDBCDataSourceExample.java' to 'rest'
+1683108103671	Move 'JDBCDataSourceExample.java' to 'servlets'
+1683183787871	Encapsulate field 'id'
+1683183800152	Encapsulate field 'peso'
+1683183807016	Encapsulate field 'specie'

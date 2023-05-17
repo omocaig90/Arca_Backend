@@ -1,0 +1,11 @@
+integration\enumeratori\EnumSpecie.class
+presentation\servlets\JDBCDataSourceExample.class
+integration\ConnectionManager.class
+integration\ArcaDao.class
+presentation\rest\ArcaWeb.class
+presentation\application\ArcaApplication.class
+presentation\pojo\Animale.class
+presentation\rest\Hello.class
+business\Arca.class
+business\Arca$1.class
+integration\pojo\AnimaleDto.class
