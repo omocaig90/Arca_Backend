@@ -24,7 +24,7 @@ public class ProviderFilter implements ContainerResponseFilter {
 
 		final MultivaluedMap<String, Object> headers = responseContext.getHeaders();
 
-		headers.add("Access-Control-Allow-Methods", "GET, POST, PUT, OPTIONS");
+		headers.add("Access-Control-Allow-Methods", "GET, POST, PUT, OPTIONS, DELETE");
 
 		headers.add("Access-Control-Allow-Origin", "*");
 

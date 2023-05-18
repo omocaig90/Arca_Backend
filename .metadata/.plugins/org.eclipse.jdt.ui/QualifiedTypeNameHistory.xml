@@ -17,4 +17,5 @@
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="integration.ArcaDao"/>
     <fullyQualifiedTypeName name="jakarta.ws.rs.PUT"/>
+    <fullyQualifiedTypeName name="presentation.provider.ProviderFilter"/>
 </qualifiedTypeNameHistroy>
